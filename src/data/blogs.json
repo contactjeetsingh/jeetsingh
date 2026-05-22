@@ -11,6 +11,17 @@
     "folder": "2025-03-08-apex-security-best-practices-how-to-avoid-soql-injection"
   },
   {
+    "slug": "2026-05-22",
+    "title": "Why Most CRM Transformations Fail Despite Huge Investments",
+    "categories": [
+      "Apex"
+    ],
+    "date": "2026-05-22",
+    "image": "/images/Unit.png",
+    "excerpt": "title: \"Why Most CRM Transformations Fail Despite Huge Investments\" date: 20260522 categories:  \"Apex\"   ![](/images/Unit.png)   In Salesforce de",
+    "folder": "2026-05-22"
+  },
+  {
     "slug": "2025-03-08-building-dynamic-amp-interactive-ui-with-lwc",
     "title": "Building Dynamic Amp Interactive Ui With Lwc",
     "categories": [
