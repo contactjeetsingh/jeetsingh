@@ -74,7 +74,19 @@
     "date": "2026-05-23",
     "image": "/images/Certifications Alone Do Not Create Architects.png",
     "excerpt": "title: \"Certifications Alone Do Not Create Architects\" date: 20260523 categories:  \"Enterprise\"   ![](/images/Alone.png)   Writing effi",
-    "folder": "certifications-alone-do-not-create-architects"
+   "folder": "certifications-alone-do-not-create-architects"
+ }, 
+ {
+    "slug": "2026-05-22",
+    "title": "Why Most CRM Transformations Fail Despite Huge Investments",
+    "categories": [
+      "Apex"
+    ],
+    "date": "2026-05-22",
+    "image": "/images/Unit.png",
+    "excerpt": "title: \"Why Most CRM Transformations Fail Despite Huge Investments\" date: 20260522 categories:  \"Apex\"   ![](/images/Unit.png)   In Salesforce de",
+    "folder": "2026-05-22"
+
   },
   {
     "slug": "2025-03-08-building-dynamic-amp-interactive-ui-with-lwc",
